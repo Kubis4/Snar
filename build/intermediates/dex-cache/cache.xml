@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\VlaKu\Desktop\DEV\Snar\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\VlaKu\Desktop\DEV\Snar\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_3644c268528b73d47be0827b58c840ddcc45699c.jar" />
+    </item>
+    <item
+        jar="C:\Users\VlaKu\Desktop\DEV\Snar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\VlaKu\Desktop\DEV\Snar\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_b866ab57edfe36eb147a0ad9231af1b08c577649.jar" />
+    </item>
+    <item
+        jar="C:\Users\VlaKu\Desktop\DEV\Snar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\VlaKu\Desktop\DEV\Snar\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_06c17f8def13319f8bc80fd278a52a54befb59a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\VlaKu\Desktop\DEV\Snar\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\VlaKu\Desktop\DEV\Snar\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_e2779bae46f08d00aef7e4240d118b7f43815037.jar" />
+    </item>
+    <item
+        jar="C:\Users\VlaKu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\VlaKu\Desktop\DEV\Snar\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_b7d629b89d6144b40b5a28ce3c9c5531df3a5086.jar" />
+    </item>
+    <item
+        jar="C:\Users\VlaKu\Desktop\DEV\Snar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\VlaKu\Desktop\DEV\Snar\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_2b318cb6e10c5d8fdd5cf45a335b965191d5ada0.jar" />
+    </item>
+
+</items>
