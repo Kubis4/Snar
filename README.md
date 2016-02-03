@@ -7,3 +7,5 @@ Vymyslieť ako efektívne spraviť onItemClickListener aby po otvorení hodilo f
 
 Možno pridať SubItem pod Item (niečo ako je v dictionary) - not necesary
 
+Slová a výklady z http://horoskopy.azet.sk/snar/a/
+
